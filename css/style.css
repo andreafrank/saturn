@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+}
+
+.bg1 {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: radial-gradient(circle, black, gray, black, gray);
+  cursor: all-scroll;
+}
+
+
+.bg2 {
+	height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: radial-gradient(circle, gray, black, gray, black);
+  cursor: all-scroll;
+  transition: opacity 0.45s;
+}
