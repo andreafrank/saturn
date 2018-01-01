@@ -1,0 +1,23 @@
+{
+  "name": "saturn",
+  "version": "1.0.0",
+  "description": "howler",
+  "main": "index.js",
+  "dependencies": {
+    "howler": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreafrank/saturn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreafrank/saturn/issues"
+  },
+  "homepage": "https://github.com/andreafrank/saturn#readme"
+}
